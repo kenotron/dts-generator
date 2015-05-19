@@ -1,1 +1,1 @@
-../../node_modules/typescript/bin/typescript.d.ts
+/// <reference path="../../node_modules/typescript/bin/typescript.d.ts" />
